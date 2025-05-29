@@ -1,4 +1,4 @@
-# Trash-has-value
+# ABOUT-ME
 I am a Computer Science student from Thammasat University with a strong interest in data analysis and web development. I am passionate about using technology to solve real-world problems, especially in areas related to sustainability and environmental awareness.
 
 Capstone Project
